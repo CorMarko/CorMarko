@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Marko Čorkalo 👋
 
-<!--
-**CorMarko/CorMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research & teaching assistant** at [UP FAMNIT](https://www.famnit.upr.si/en) (University of Primorska)  
+Molecular Ecology group — prof. dr. Elena Bužan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I hold a master's degree in environmental science from the University of Zagreb, Croatia, with more than three years of international research experience in Taiwan, Thailand, Saudi Arabia, Germany, Angola, and Peru.
+
+## Interests
+
+- 🔬 Environmental science & biodiversity monitoring  
+- 📊 Statistical modelling in R  
+- 🧬 eDNA, metagenomics, metabarcoding & camera traps  
+- 🎓 Teaching & science communication  
+
+## International projects
+
+- **BIG PICTURE** (Biodiversa+)  
+- **PRO-COAST** (Horizon Europe)  
+- **BGE+** (Biodiversity Genomics Europe)  
+
+## Connect
+
+| | |
+|---|---|
+| 📧 Email | [marko.corkalo@famnit.upr.si](mailto:marko.corkalo@famnit.upr.si) |
+| 💼 LinkedIn | [marko-corkalo](https://www.linkedin.com/in/marko-corkalo/) |
+| 📄 ResearchGate | [Marko Čorkalo](https://www.researchgate.net/profile/Marko-Corkalo-2) |
+| 🏛️ Faculty | [UP FAMNIT](https://www.famnit.upr.si/en) |
